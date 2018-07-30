@@ -1,19 +1,3 @@
- #region Outdated Text
-    /**
-text.text = //"<i>You... I've seen you.. Let me see your face... You are the one from my dreams... Then the stars were right, and this is the day. Gods give me strength. </i>" +
-            //"Assassins attacked my sons, and i'm next. My Blades are leading me out of the city along a secret escape route. By chance, the entrance to that escape route leads through our cell. " +
-            //"Perhaps the Gods have placed you here so that we may meet. As for what you have done... it does not matter. That is not what you will be remembered for. ";
-            //"\n\n What's going on?";
-
-text.text = "<i>I was born 87 years ago. For 65 years I've ruled as Tamriel's Emperor. " +
-            "But for all these years I have never been the ruler of my own dreams. I " +
-            "have seen the Gates of Oblivion, beyond which no waking eye may see. " +
-            "Behold, in Darkness a Doom sweeps the land. This is the 27th of Last " +
-            "Seed; the Year of Akatosh 433. These are the closing days of the 3rd " +
-            "Era, and the final hours of my life.</i>";
-    **/
-    #endregion
-
     #region Variables
     public Text text;
     private enum States { cell, mirror, sheets_0, lock_0, cell_mirror, sheets_1, lock_1,
